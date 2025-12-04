@@ -1,5 +1,4 @@
 ## Smart Lane Detection and Tracking System for Advanced Driver Assistance (ADAS)
-## Lane lines detection using Python and OpenCV
 This project focuses on developing a robust lane line detection system aimed at autonomous driving and Advanced Driver Assistance Systems (ADAS). The project uses Python and OpenCV to detect and track lane lines accurately under varying environmental conditions, ensuring safer navigation.
 
 ## About
